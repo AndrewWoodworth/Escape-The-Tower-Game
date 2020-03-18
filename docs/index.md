@@ -1,8 +1,9 @@
 <html>
 <body>
 
-<h1>This is a header</h1>
-<p>This is a paragraph</p>
+<h1 style="text-align:center; font-size:150%">About Escape The Tower</h1>
+<p style="text-align:center;">Escape the tower it a short puzzle solving, escape game.  Escape the tower it free to play.  
+There is only one Supported platform: Windows 60 bit.</p>
 
 </body>
 </html>
