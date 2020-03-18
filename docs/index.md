@@ -1,4 +1,5 @@
 <html>
+<title>Escape the Tower Game</title>
 <body>
 
 <h1 style="text-align:center; font-size:150%">About Escape The Tower</h1>
